@@ -1,0 +1,8 @@
+[submodule "tsurumoto.github.io"]
+	path = tsurumoto.github.io
+	url = https://github.com/tsurumoto-shi/tsurumoto.github.io.git
+	branch = main
+[submodule "public"]
+	path = public
+	url = https://github.com/tsurumoto-shi/tsurumoto.github.io.git
+	branch = main
